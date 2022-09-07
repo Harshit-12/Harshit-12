@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://drive.google.com/file/d/1Q-QQFGKcACEI0l7hgN6FWDS7Fynij8R4/view?usp=sharing]([https://media-exp1.licdn.com/dms/image/C4D16AQH8lZZxugwd5w/profile-displaybackgroundimage-shrink_200_800/0/1645953781296?e=1668038400&v=beta&t=uBVB0pUt02rd8Pnp9zR6UXBQfT1Whs5RZpRRw9lNxVs)](https://drive.google.com/file/d/1Q-QQFGKcACEI0l7hgN6FWDS7Fynij8R4/view?usp=sharing))
+
 <h1 align="center">Hi 👋, I'm Harshit Srivastava</h1>
 <h3 align="center">A Coding Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
